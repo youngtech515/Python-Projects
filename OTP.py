@@ -16,7 +16,7 @@ def generateOTP() :
 
 	return OTP
 
-# Driver code
+
 if __name__ == "__main__" :
 	
 	print("OTP of 4 digits:", generateOTP())
