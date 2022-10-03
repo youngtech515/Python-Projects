@@ -23,7 +23,7 @@ root.configure(bg="crimson")
 title = Label(root,text="HealthAdmin",font=('verdana',25,'bold'),bg="orange",fg="white")
 title.place(x=340, y=10)
 
-text = Label(root,text="Healthadmin is your software friend which takecare your health and\ngives a best reliable natural treatment suggestion for all health\n problems.It will helps you to take a hygenic food and medicines.\nAnd it will helps you from make away from hospital.", font=('georgia',20,'italic'),bg="crimson",fg="yellow")
+text = Label(root,text="Healthadmin is your software friend which takes care of your health and\nsuggests best reliable natural treatment for all health\n problems.It will help you to take a hygenic food and medicines.\nAnd it will help you to stay away from hospital.", font=('georgia',20,'italic'),bg="crimson",fg="yellow")
 text.place(x=20, y=70)
 
 select_problem=Label(root,text="Select Your Problem", font=('georgia',20,'bold'),bg="crimson",fg="white")
